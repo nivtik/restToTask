@@ -24,6 +24,6 @@ Provided code:
     - Main script: model_training.m
     - Additional code: DR_both_hemis_single_sub.m, GLM_training.m
 
-    3. Prediction:
-      - Main script: prediction_with_pretrained_model.m
-      - Additional code: DR_both_hemis_single_sub.m, predict_subject_map.m, model_stats.m
+   3. Prediction:
+    - Main script: prediction_with_pretrained_model.m
+    - Additional code: DR_both_hemis_single_sub.m, predict_subject_map.m, model_stats.m
