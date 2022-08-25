@@ -13,7 +13,8 @@ Provided resources:
    - Seed group-ICA map that can be used for trainng new models: extras/
    - Trained models (beta coefficients) for 18 HCP task contrasts detailed in the paper
    
-Provided code:
+Provided codes are based on the codes released with Tavor et al., (2016), that can be found in https://git.fmrib.ox.ac.uk/saad/ActPred
+  
   1. Calculate group-ICA components on new data:
   
     - Main script: genertate_group_components.m
@@ -28,3 +29,6 @@ Provided code:
    
     - Main script: prediction_with_pretrained_model.m
     - Additional code: DR_both_hemis_single_sub.m, predict_subject_map.m, model_stats.m
+
+Refrences:
+1. Tavor, I., Jones, O. P., Mars, R. B., Smith, S. M., Behrens, T. E., & Jbabdi, S. (2016). Task-free MRI predicts individual differences in brain activity during task performance. Science, 352(6282), 216-220.
