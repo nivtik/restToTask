@@ -1,6 +1,4 @@
-The code in this repository is associated with the following publication: Tik, N, Gal,S, Bernstein-Eliav, M, Tavor,
-% I. Towards a generalized AI framework for predicting task-evoked brain 
-% activity from resting-state connectivity (2022)
+The code in this repository is associated with the following publication: Tik, N, Gal,S, Bernstein-Eliav, M, Tavor,I. Towards a generalized AI framework for predicting task-evoked brain activity from resting-state connectivity (2022)
 
 The following software are required:
   1. MATLAB (https://www.mathworks.com/products/matlab.html)
