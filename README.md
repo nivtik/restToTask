@@ -10,8 +10,8 @@ All the main scripts and additional code are provied here.
 The main dataset is provided by the Human Connectome Project via https://db.humanconnectome.org.
 
 Provided resources:
-   - Seed group-ICA map that can be used for trainng new models: extras/
-   - Trained models (beta coefficients) for 18 HCP task contrasts detailed in the paper
+   - Seed group-ICA map that can be used for trainng new models: extras/helpers/ica_both_hemis_45_comp.dtseries.nii
+   - Trained models (beta coefficients) for 18 HCP task contrasts (740 training participants, timepoints each): extras/HCP_YA_trained_models
    
 Provided codes are based on the codes released with Tavor et al., (2016), that can be found in https://git.fmrib.ox.ac.uk/saad/ActPred
   
