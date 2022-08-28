@@ -1,5 +1,7 @@
 The code in this repository is associated with the following publication: Tik, N, Gal,S, Bernstein-Eliav, M, Tavor,I. Towards a generalized AI framework for predicting task-evoked brain activity from resting-state connectivity (2022)
 
+All feature extraction, model training and prediction codes are based on the codes released with: Tavor, I., Jones, O. P., Mars, R. B., Smith, S. M., Behrens, T. E., & Jbabdi, S. (2016). Task-free MRI predicts individual differences in brain activity during task performance. Science, 352(6282), 216-220. Original codes could be found in https://git.fmrib.ox.ac.uk/saad/ActPred
+
 The following software are required:
   1. MATLAB (https://www.mathworks.com/products/matlab.html)
   2. FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
@@ -12,9 +14,7 @@ The main dataset is provided by the Human Connectome Project via https://db.huma
 Provided resources:
    - Seed group-ICA map that can be used for trainng new models: extras/helpers/ica_both_hemis_45_comp.dtseries.nii
    - Trained models (beta coefficients) for 18 HCP task contrasts (740 training participants,1200 timepoints each): extras/HCP_YA_trained_models
-   
-Provided codes are based on the codes released with Tavor et al., (2016), that can be found in https://git.fmrib.ox.ac.uk/saad/ActPred
-  
+     
   1. Calculate group-ICA components on new data:
   
     - Main script: genertate_group_components.m
