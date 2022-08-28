@@ -30,6 +30,3 @@ Provided codes are based on the codes released with Tavor et al., (2016), that c
     - Main script: prediction_with_pretrained_model.m
     - Additional code: DR_both_hemis_single_sub.m, predict_subject_map.m, model_stats.m
 
-All codes are based on Tavor, I., Jones, O. P., Mars, R. B., Smith, S. M., Behrens, T. E., & Jbabdi, S. (2016). Task-free MRI predicts individual differences in brain activity during task performance. Science, 352(6282), 216-220, and were slightly modified for usage in Tik et al., (2022).
-
-
