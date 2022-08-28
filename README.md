@@ -11,7 +11,7 @@ The main dataset is provided by the Human Connectome Project via https://db.huma
 
 Provided resources:
    - Seed group-ICA map that can be used for trainng new models: extras/helpers/ica_both_hemis_45_comp.dtseries.nii
-   - Trained models (beta coefficients) for 18 HCP task contrasts (740 training participants, timepoints each): extras/HCP_YA_trained_models
+   - Trained models (beta coefficients) for 18 HCP task contrasts (740 training participants,1200 timepoints each): extras/HCP_YA_trained_models
    
 Provided codes are based on the codes released with Tavor et al., (2016), that can be found in https://git.fmrib.ox.ac.uk/saad/ActPred
   
@@ -30,6 +30,6 @@ Provided codes are based on the codes released with Tavor et al., (2016), that c
     - Main script: prediction_with_pretrained_model.m
     - Additional code: DR_both_hemis_single_sub.m, predict_subject_map.m, model_stats.m
 
-Original code from:
+All codes are based on Tavor, I., Jones, O. P., Mars, R. B., Smith, S. M., Behrens, T. E., & Jbabdi, S. (2016). Task-free MRI predicts individual differences in brain activity during task performance. Science, 352(6282), 216-220, and were slightly modified for usage in Tik et al., (2022).
 
-Tavor, I., Jones, O. P., Mars, R. B., Smith, S. M., Behrens, T. E., & Jbabdi, S. (2016). Task-free MRI predicts individual differences in brain activity     during task performance. Science, 352(6282), 216-220.
+
