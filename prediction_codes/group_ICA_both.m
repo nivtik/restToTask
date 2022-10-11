@@ -3,10 +3,9 @@ function ica_both=group_ICA_both(PCA,cifti,outdir,numIC,save_cifti)
 %  Run group ICA on group_pca output (Training set only!)
 % 
 % Created by Saad Jbabdi (Tavor et al., 2016, PMC6309730). 
-% Modified to run as a matlab function for usage in: Tik, N, Gal,S, Bernstein-Eliav, M, Tavor,
-% I. Towards a generalized AI framework for predicting task-evoked brain 
-% activity from resting-state connectivity (2022)
 
+% Modified to run as a matlab function for usage in: Tik, N, Bernstein-Eliav, M, Gal,S, Tavor,
+% I. Generalizing prediction of task-evoked brain activity across datasets and populations (2022)
 
 % Input arguments:
 % PCA: Group PCA results. Could be either path to group PCA results, or
