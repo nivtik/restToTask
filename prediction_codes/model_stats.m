@@ -1,8 +1,7 @@
 function [stats,corrmat,null_distribution]=model_stats(task,pred,ctx,num_perms)
 
-% %  Created for usage in: Tik, N, Gal,S, Bernstein-Eliav, M, Tavor,
-% I. Towards a generalized AI framework for predicting task-evoked brain
-% activity from resting-state connectivity (2022)
+% Created for usage in: Tik, N, Bernstein-Eliav, M, Gal,S, Tavor,
+% I. Generalizing prediction of task-evoked brain activity across datasets and populations (2022)
 
 %Input arguments:
 % task: task contrast map
