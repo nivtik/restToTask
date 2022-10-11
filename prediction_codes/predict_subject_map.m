@@ -4,9 +4,8 @@ function pred=predict_subject_map(features,model,S,out_path,helper_path,save_pre
 % Created by Saad Jbabdi (Tavor et al., 2016, PMC6309730). Based on Smith
 % et al. 2014, PMC4289914.
 
-% Modified to run as a matlab function for usage in: Tik, N, Gal,S, Bernstein-Eliav, M, Tavor,
-% I. Towards a generalized AI framework for predicting task-evoked brain 
-% activity from resting-state connectivity (2022)
+% Modified to run as a matlab function for usage in: Tik, N, Bernstein-Eliav, M, Gal,S, Tavor,
+% I. Generalizing prediction of task-evoked brain activity across datasets and populations (2022)
 
 % Input arguments:
 % features: test-set individual features (output of dual regression).
