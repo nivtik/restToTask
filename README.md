@@ -1,4 +1,4 @@
-The code in this repository is associated with the following publication: Tik, N, Gal,S, Bernstein-Eliav, M, Tavor,I. Towards a generalized AI framework for predicting task-evoked brain activity from resting-state connectivity (2022)
+The code in this repository is associated with the following paper: Tik, N, Bernstein-Eliav, M, Gal,S, Tavor,I. Generalizing prediction of task-evoked brain activity across datasets and populations (2022)
 
 All feature extraction, model training and prediction codes are based on the codes released with: Tavor, I., Jones, O. P., Mars, R. B., Smith, S. M., Behrens, T. E., & Jbabdi, S. (2016). Task-free MRI predicts individual differences in brain activity during task performance. Science, 352(6282), 216-220. Original codes could be found in https://git.fmrib.ox.ac.uk/saad/ActPred
 
