@@ -1,6 +1,7 @@
 %% Generate group-ICA compontents for prediction
 % All codes are based on Tavor et al., (2016),PMC6309730 and were slightly modified for
-% the purposes of the current study
+% the purposes of: Tik, N, Bernstein-Eliav, M, Gal,S, Tavor, I. Generalizing 
+% prediction of task-evoked brain activity across datasets and populations (2022)
 
 % Group-ICA components could be calculated using the training set or an outgroup
 % Do not include any test set data!
